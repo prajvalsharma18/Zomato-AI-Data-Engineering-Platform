@@ -76,6 +76,9 @@ The pipeline is designed to support **incremental processing**, data quality che
 | Gold      | Snowflake MARTS + dbt   | Business-ready facts, dimensions, and aggregates |
 | AI        | Snowflake AI + OpenAI   | Review enrichment and AI analytics               |
 
+<img width="1113" height="662" alt="Screenshot 2026-08-28 180957" src="https://github.com/user-attachments/assets/535fdc86-e257-4890-ba85-d249461e1a3f" />
+
+
 ## Data Model
 
 ### Dimension tables
